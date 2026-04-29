@@ -1,0 +1,4 @@
+React Query helps cache server state.
+Redux manages global state.
+LangChain helps build LLM applications.
+Chroma is a vector database.
