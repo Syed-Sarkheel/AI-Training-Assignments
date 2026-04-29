@@ -56,14 +56,14 @@ Install these first:
 
 ```bash
 cd ~/Desktop
-git clone <your-repo-url>
+git clone https://github.com/Syed-Sarkheel/AI-Training-Assignments.git
 cd "AI Tranining Assignments"
 ```
 
 If already downloaded:
 
 ```bash
-cd ~/Desktop/"AI Tranining Assignments"
+cd ~/Desktop/AI Tranining Assignments
 ```
 
 ---
