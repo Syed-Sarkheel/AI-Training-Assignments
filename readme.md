@@ -1,4 +1,3 @@
-````md id="d3m8qa"
 # LLM Assignments Repository
 
 A beginner-friendly project containing **4 practical LLM assignments** using local models, RAG pipelines, prompt engineering, and retrieval improvements.
